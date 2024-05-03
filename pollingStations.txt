@@ -1,0 +1,12 @@
+S001,D001,Kumasi,5
+S002,D002,Takoradi,5
+S003,D003,Ho,5
+S004,D004,Cape Coast,5
+S005,D005,Sunyani,5
+S006,D006,Tamale,5
+S007,D007,Bolgatanga,5
+S008,D008,Koforidua,5
+S009,D009,Techiman,5
+S010,D010,Wa,5
+S011,D011,Sekondi,5
+S012,D012,Berekum,5
